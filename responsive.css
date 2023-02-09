@@ -1,0 +1,266 @@
+
+
+@media (min-width:1400px){
+    .container {
+        max-width: 100%;
+        padding: 0px 44px;
+    }
+}
+@media(min-width:1200px) {
+ 
+
+  
+}
+
+@media(max-width:1000px){}
+@media(max-width:1200px){
+   .container{
+    max-width: 100%;
+    padding: 0px 39px;
+    }
+       /* service section */
+
+   .servic-1 {
+    padding: 36px 17px !important;
+   }
+    /* our service */
+
+    .our-service-icon {
+       
+        left: calc(50% - 5%);
+    }
+    .our-service-border::before {
+        height: 48%;
+       
+    }
+    /* hero section tow */
+    .main-hero .hero-content {
+        padding: 37px 23px !important;
+    }
+
+   
+   
+}
+  
+@media(max-width:992px) {
+
+    .container {
+        max-width: 100%;
+        padding: 0px 29px;
+    }
+
+  /* banner section */
+    .carousel-caption h1 {
+        font-weight: 600;
+        font-size: 3.5rem;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        top: 299px;
+    }
+    .img img {
+        height: 550px;
+    }
+    /* service section */
+
+    .servic-1 {
+        width: 100%;
+    }
+    .services {
+        flex-direction: column;
+    }
+     /* about us */
+
+     .about-img {
+        margin-top: 32px;
+    }
+    /* date section */
+     
+    .deta-content h1 {
+        margin-bottom: 27px;
+    }
+    .deta-form h1 {
+        margin-bottom: 20px;
+    }
+    /* our servic */
+    .our-service-icon {
+        left: calc(50% - 2%);
+    }
+
+    .our-service-border::before {
+        height: 53.1%;
+        left: 50.05%;
+    }
+    .our-service-border::after {
+        left: 50.2%;
+    }
+    /* hero section tow */
+    .main-hero .hero-content h1 {
+        font-size: 2rem;
+    }
+    .main-hero .hero-content a {
+        padding: 15px 20px !important;
+      
+    }
+    .ext-lg {
+        margin-left: 4px;
+    }
+    /* pricing section */
+    .pricing-plan {
+        margin-bottom: 30px;
+    }
+    .exta-p a {
+        left: 31%;
+    }
+    /* testimonial */
+    .testimonial-bg .carousel-control-next,  .testimonial-bg .carousel-control-prev {
+        bottom: 297px;
+    }
+    .testimonial-bg .carousel-control-prev {
+        left: 157px !important;
+    }
+    .testimonial-bg .carousel-control-next{
+        right: 157px !important;
+    }
+    .testimonial-content {
+        width: 50%;
+    }
+    
+}
+@media(max-width:768px){
+     /* bannner section */
+
+     .carousel-caption h1 {
+        font-size: 3rem;
+    }
+    .img img {
+        height: 449px;
+    }
+    .img img {
+        height: 450px;
+    }
+    /* about us */
+    .about-content h2 {
+        font-size: 3rem;
+    }
+    /* date section */
+    .deta-content h1 {
+        padding-right: 0px;
+        font-size: 2.4rem;
+    }
+    .deta-content p {
+        padding-right: 42px;
+      
+    }
+    /* our service */
+    .our-service-border::before {
+        height: 51%;
+        left: 50.05%;
+    }
+    .our-service-icon {
+        left: calc(50% - 2.4%);
+    }
+    .our-service-content h1 {
+        font-size: 2.6rem;
+        padding-right: 32px;
+    }
+    .our-service-content h1 {
+        font-size: 2.6rem;
+        padding-right: 32px;
+        
+    }
+    /* hero section tow */
+
+    .main-hero .hero-content {
+        width: 60%;
+    }
+    .main-hero .hero-content h1 {
+        font-size: 1.6rem;
+    }
+    /* pricing section */
+    .pricing-plan h1 {
+        font-size: 2.7rem;
+        font-weight: 600;
+    }
+    .exta-p a {
+        left: 28%;
+    }
+    .carousel-control-next, .carousel-control-prev {
+        bottom: 245px;
+    }
+    /* testimonial */
+    .testimonial-content {
+        width: 57%;
+        padding: 47px 25px !important;
+    }
+    .testimonial-bg .carousel-control-prev {
+        left: 95px !important;
+    }
+    .testimonial-bg .carousel-control-next {
+        right: 95px !important;
+    }
+    .testimonial-content p {
+        font-size: 1rem;
+        
+    }
+}
+@media(max-width:576px){
+      
+      /* banner section */
+      .carousel-caption h1 {
+        font-size: 2.5rem;
+    }
+    .carousel-control-next,  .carousel-control-prev {
+        top: 127px;
+    }
+    .img img {
+        height: 350px;
+    }
+    /* service section */
+
+    .services {
+        margin-top: -43px;
+    }
+    /* about us */
+    .about-content h2 {
+        font-size: 2rem;
+    }
+    /* date setion */
+    .deta-content h1 {
+        padding-right: 0px;
+        font-size: 2rem;
+    }
+    .deta-content p {
+        padding-right: 0px;
+    }
+    .container {
+        max-width: 100%;
+        padding: 0px 26px
+    }
+    /* our service */
+    .our-service-icon {
+        left: calc(49% - 2.3%);
+    }
+    .our-service-border::before {
+        height: 49%;
+       
+    }
+
+    /* testimonial */
+    .testimonial-bg .carousel-control-next, .testimonial-bg .carousel-control-prev {
+        bottom: 200px;
+    }
+    .testimonial-bg .carousel-control-next {
+        right: 70px !important;
+    }
+    
+    .testimonial-bg .carousel-control-prev {
+        left: 70px !important;
+    }
+    .footer-form {  
+        padding: 40px;
+     
+    }
+    .form-control {
+        padding: 0.1rem 0.7rem !important;
+    }
+}
